@@ -70,12 +70,12 @@ and user-friendly applications.
 
  <div>
  
-<img  src="https://github-readme-stats.vercel.app/api?username=meenukatariya&show_icons=true&locale=en" alt="meenukatariya" width="49%" height="200" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=meenukatariya&show_icons=true&locale=en&layout=compact" width="50%" height="200"  alt="meenukatariya" />
+<img  src="https://github-readme-stats.vercel.app/api?username=mamtakatariya&show_icons=true&locale=en" alt="mamtakatariya" width="49%" height="200" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mamtakatariya&show_icons=true&locale=en&layout=compact" width="50%" height="200"  alt="mamtakatariya" />
 
 </div>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenukatariya&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-<a href="https://github.com/meenukatariya?tab=followers"><img src="https://img.shields.io/github/followers/meenukatariya?label=Followers&style=social" alt="GitHub Badge"></a>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamtakatariya&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<a href="https://github.com/mamtakatariya?tab=followers"><img src="https://img.shields.io/github/followers/mamtakatariya?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
