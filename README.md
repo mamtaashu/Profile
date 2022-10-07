@@ -12,7 +12,7 @@ and user-friendly applications.
 
 
  &nbsp;&nbsp; 
- Portfolio: &nbsp; <a href="https://meenu-portfolio.netlify.app/" target="blank">https://meenu-portfolio.netlify.app/</a>
+ Portfolio: &nbsp; <a href="https://mamta-portfolio.vercel.app/" target="blank">https://mamta-portfolio.vercel.app/</a>
 
 
 
