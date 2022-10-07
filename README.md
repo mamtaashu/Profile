@@ -7,7 +7,7 @@ and user-friendly applications.
 <br/>
 &nbsp;&nbsp;&nbsp;I love designing websites and coding.
 <br/>
-&nbsp;&nbsp;&nbsp;I'm skilled at MERN based web app development, alongside upskilling my data structure and algorithms knowledge.
+&nbsp;&nbsp;&nbsp;I'm skilled at frontend based web app development, alongside upskilling my data structure and algorithms knowledge.
 <br/>
 
 
@@ -19,10 +19,10 @@ and user-friendly applications.
 <h2 align="center">Contact Me At :star:</h2>
 
 <p align="center">
-   <a href="mailto:mmamtaashu926@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="mailto:mamtaashu926@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/meenu-katariya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mamta-katariya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  </p> 
 
 <br/>
